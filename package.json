@@ -49,12 +49,12 @@
     "type": "git",
     "url": "https://github.com/Vritika23/gaming-website-sample.git"
   },
-  "homepage": "https://gaming-website-sample-git-main-vritikas-projects.vercel.app/#about",
+  "homepage": "https://gaming-website-sample-git-main-vritikas-projects.vercel.app",
   "bugs": {
     "url": "https://github.com/Vritika23/gaming-website-sample/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "email": "vritikadadhich@gmail.com"
   },
-  "funding": [n
+  "funding": [
     {
       "type": "patreon",
       "url": "https://www.patreon.com/vritika"
